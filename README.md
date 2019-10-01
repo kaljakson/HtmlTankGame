@@ -1,8 +1,8 @@
 # Tank
 
-<p>坦克大战demo。</p>
+<p>HTML Tank Game</p>
 
-<p>W S A D按键分别控制上下左右坦克移动，J按键发出子弹。</p>
+<p>The W S A D button controls the movement of the upper, lower, left and right tanks respectively, and the J button emits bullets.</p>
 
 
-<a href='https://jianfeng418.github.io/Tank/Tank/tank.html'><h1>在线试玩</h1></a>
+<a href='https://jianfeng418.github.io/Tank/Tank/tank.html'><h1>Online Demo</h1></a>
